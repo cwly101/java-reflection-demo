@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33ed0792-89f3-46d2-b43a-204dea98f98e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WCC3R4Fpff20yjZ55liI842w3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module-add-del" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cw" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_workspace\java-reflection-demo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_workspace\java-reflection-demo\src" />
+      <recent name="D:\idea_workspace\java-reflection-demo\src\com\cw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnnotationTest">
+    <configuration name="AnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.annotation.AnnotationTest" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cw.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.CompareObjectDemo" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DurationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.DurationDemo" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.EnumTest" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.module.demo1" />
+      <module name="module-add-del" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cw.module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnotationTest" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.CompareObjectDemo" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.DurationDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ed0792-89f3-46d2-b43a-204dea98f98e" name="Default Changelist" comment="" />
+      <created>1578643989844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578643989844</updated>
+      <workItem from="1578643993211" duration="507000" />
+      <workItem from="1578644509364" duration="3509000" />
+      <workItem from="1578735918267" duration="4003000" />
+      <workItem from="1578799883492" duration="887000" />
+      <workItem from="1578827074924" duration="3283000" />
+      <workItem from="1578878405242" duration="1292000" />
+      <workItem from="1578903443086" duration="4336000" />
+      <workItem from="1579001799397" duration="6404000" />
+      <workItem from="1579158709962" duration="2177000" />
+      <workItem from="1579268604612" duration="2959000" />
+      <workItem from="1579444130688" duration="681000" />
+      <workItem from="1579503815941" duration="191000" />
+      <workItem from="1579509543176" duration="1962000" />
+      <workItem from="1579572304633" duration="3946000" />
+      <workItem from="1579597045355" duration="7206000" />
+      <workItem from="1579608176498" duration="806000" />
+      <workItem from="1579620844181" duration="2564000" />
+      <workItem from="1579676365595" duration="1409000" />
+      <workItem from="1579768101718" duration="3031000" />
+      <workItem from="1579834568290" duration="4397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="96" width="1016" height="908" key="#Intentions" timestamp="1578644727281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="96" width="1016" height="908" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1578644727281" />
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1579769203048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579769203048" />
+    <state x="723" y="154" key="FileChooserDialogImpl" timestamp="1579608779126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="154" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579608779126" />
+    <state width="1867" height="218" key="GridCell.Tab.0.bottom" timestamp="1579837356823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
+    <state width="1867" height="218" key="GridCell.Tab.0.center" timestamp="1579837356823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
+    <state width="1867" height="218" key="GridCell.Tab.0.left" timestamp="1579837356823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
+    <state width="1867" height="218" key="GridCell.Tab.0.right" timestamp="1579837356823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
+    <state x="565" y="151" key="NewModule_or_Project.wizard" timestamp="1579608831278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="151" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579608831278" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1579608974149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579608974149" />
+    <state x="582" y="394" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578644642087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="394" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1578644642087" />
+    <state x="729" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578644619887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578644619887" />
+    <state x="631" y="258" key="extract.method.dialog" timestamp="1579598415409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="258" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579598415409" />
+    <state x="574" y="29" width="771" height="981" key="find.popup" timestamp="1578800120612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="29" width="771" height="981" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578800120612" />
+    <state x="161" y="54" key="new project wizard" timestamp="1579608623798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="54" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579608623798" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579835525873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579835525873" />
+  </component>
+</project>

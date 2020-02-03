@@ -31,6 +31,7 @@ public class DurationDemo {
         LocalDateTime dateTime1 = LocalDateTime.parse(dateTime, dateTimeFormatter);
         System.out.println("字符串时间值解析为LocalDateTime:"+dateTime1);
 
+        // 以下是建立在 DateTimeFormatter格式为：yyyy-mm-dd HH:mm:ss 的基础上进行操作。正确应为：yyyy-MM-dd HH:mm:ss
 //        TemporalAccessor parse = dateTimeFormatter.parse(dateTime);
 //        System.out.println(parse);
 //

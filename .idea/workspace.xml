@@ -7,6 +7,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-reflection-demo" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -18,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,8 +46,14 @@
         <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1WCC3R4Fpff20yjZ55liI842w3K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="LombokPluginEnabledInProject" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
@@ -46,34 +73,36 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module-add-del" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/java-mianshi-demo/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-io-demo/dir" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.cw" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea_workspace\java-reflection-demo" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\idea_workspace\java-reflection-demo\src" />
       <recent name="D:\idea_workspace\java-reflection-demo\src\com\cw" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_workspace\java-reflection-demo\java-io-demo\dir" />
+      <recent name="D:\idea_workspace\java-reflection-demo" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.AnnotationTest">
-    <configuration name="AnnotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cw.annotation.AnnotationTest" />
-      <module name="java-demo" />
+  <component name="RunManager" selected="Application.InetAddressDemo">
+    <configuration name="AtomicReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mianshi.AtomicReferenceDemo" />
+      <module name="java-mianshi-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cw.annotation.*" />
+          <option name="PATTERN" value="com.mianshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,9 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cw.CompareObjectDemo" />
-      <module name="java-demo" />
+    <configuration name="DataStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.DataStreamDemo" />
+      <module name="java-io-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cw.*" />
@@ -94,9 +123,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DurationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cw.DurationDemo" />
-      <module name="java-demo" />
+    <configuration name="FileCopyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.FileCopyDemo" />
+      <module name="java-io-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cw.*" />
@@ -107,25 +136,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cw.EnumTest" />
-      <module name="java-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="InetAddressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InetAddressDemo" />
+      <module name="java-network-demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cw.module.demo1" />
-      <module name="module-add-del" />
+    <configuration name="ObjectInputOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cw.ObjectInputOutputStreamDemo" />
+      <module name="java-io-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cw.module.*" />
+          <option name="PATTERN" value="com.cw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnnotationTest" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.CompareObjectDemo" />
-        <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.DurationDemo" />
+        <item itemvalue="Application.InetAddressDemo" />
+        <item itemvalue="Application.AtomicReferenceDemo" />
+        <item itemvalue="Application.FileCopyDemo" />
+        <item itemvalue="Application.ObjectInputOutputStreamDemo" />
+        <item itemvalue="Application.DataStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +205,26 @@
       <workItem from="1579620844181" duration="2564000" />
       <workItem from="1579676365595" duration="1409000" />
       <workItem from="1579768101718" duration="3031000" />
-      <workItem from="1579834568290" duration="4397000" />
+      <workItem from="1579834568290" duration="4718000" />
+      <workItem from="1579853978231" duration="1464000" />
+      <workItem from="1579941055424" duration="3834000" />
+      <workItem from="1580014671802" duration="5791000" />
+      <workItem from="1580033372037" duration="1563000" />
+      <workItem from="1580121188675" duration="4636000" />
+      <workItem from="1580182484342" duration="9773000" />
+      <workItem from="1580262044516" duration="4693000" />
+      <workItem from="1580272722813" duration="7044000" />
+      <workItem from="1580293253164" duration="620000" />
+      <workItem from="1580348564151" duration="52000" />
+      <workItem from="1580367561895" duration="2766000" />
+      <workItem from="1580385617036" duration="4914000" />
+      <workItem from="1580524159873" duration="7085000" />
+      <workItem from="1580542296954" duration="716000" />
+      <workItem from="1580555471597" duration="5650000" />
+      <workItem from="1580610082772" duration="2899000" />
+      <workItem from="1580633647233" duration="5234000" />
+      <workItem from="1580695668949" duration="3207000" />
+      <workItem from="1580721899173" duration="2168000" />
     </task>
     <servers />
   </component>
@@ -194,61 +236,105 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="96" width="1016" height="908" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1578644727281" />
-    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1579769203048">
+    <state x="452" y="96" key="#Notifications" timestamp="1580611459643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579769203048" />
-    <state x="723" y="154" key="FileChooserDialogImpl" timestamp="1579608779126">
+    <state x="452" y="96" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580611459643" />
+    <state x="663" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580634802480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="723" y="154" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579608779126" />
-    <state width="1867" height="218" key="GridCell.Tab.0.bottom" timestamp="1579837356823">
+    <state x="663" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580634802480" />
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1580634751122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
-    <state width="1867" height="218" key="GridCell.Tab.0.center" timestamp="1579837356823">
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580634751122" />
+    <state x="499" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580272959215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
-    <state width="1867" height="218" key="GridCell.Tab.0.left" timestamp="1579837356823">
+    <state x="499" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580272959215" />
+    <state x="627" y="209" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579941299748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
-    <state width="1867" height="218" key="GridCell.Tab.0.right" timestamp="1579837356823">
+    <state x="627" y="209" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579941299748" />
+    <state x="723" y="154" key="FileChooserDialogImpl" timestamp="1580273601664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579837356823" />
+    <state x="723" y="154" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580273601664" />
+    <state width="1867" height="195" key="GridCell.Tab.0.bottom" timestamp="1580723638049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580723638049" />
+    <state width="1867" height="195" key="GridCell.Tab.0.center" timestamp="1580723638049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580723638049" />
+    <state width="1867" height="195" key="GridCell.Tab.0.left" timestamp="1580723638049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580723638049" />
+    <state width="1867" height="195" key="GridCell.Tab.0.right" timestamp="1580723638049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580723638049" />
+    <state width="1867" height="322" key="GridCell.Tab.1.bottom" timestamp="1580562440035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="322" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580562440035" />
+    <state width="1867" height="322" key="GridCell.Tab.1.center" timestamp="1580562440035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="322" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580562440035" />
+    <state width="1867" height="322" key="GridCell.Tab.1.left" timestamp="1580562440035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="322" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580562440035" />
+    <state width="1867" height="322" key="GridCell.Tab.1.right" timestamp="1580562440035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580562440035" />
+    <state x="377" y="93" key="Maven.ArtifactSearchDialog" timestamp="1580272403759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="93" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580272403759" />
     <state x="565" y="151" key="NewModule_or_Project.wizard" timestamp="1579608831278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="151" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579608831278" />
-    <state x="345" y="0" key="SettingsEditor" timestamp="1579608974149">
+    <state x="345" y="0" key="SettingsEditor" timestamp="1580273879195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579608974149" />
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580273879195" />
+    <state x="733" y="285" key="chooseDestDirectoryDialog" timestamp="1580271839470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="285" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580271839470" />
     <state x="582" y="394" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578644642087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="582" y="394" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1578644642087" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580016077742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580016077742" />
     <state x="729" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578644619887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578644619887" />
-    <state x="631" y="258" key="extract.method.dialog" timestamp="1579598415409">
+    <state x="632" y="244" key="extract.method.dialog" timestamp="1580723787910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="631" y="258" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579598415409" />
+    <state x="632" y="244" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580723787910" />
     <state x="574" y="29" width="771" height="981" key="find.popup" timestamp="1578800120612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="574" y="29" width="771" height="981" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578800120612" />
-    <state x="161" y="54" key="new project wizard" timestamp="1579608623798">
+    <state x="190" y="48" key="new project wizard" timestamp="1580721969822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="54" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579608623798" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579835525873">
+    <state x="190" y="48" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580721969822" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1580723796248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579835525873" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580723796248" />
   </component>
 </project>

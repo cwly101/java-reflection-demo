@@ -18,7 +18,7 @@ public class Member {
 class AnnotationTest{
     public static void main(String[] args) throws Exception {
         Class<Member> memberClass = Member.class;
-        Annotation[] annotations = memberClass.getAnnotations();
+        /*Annotation[] annotations = memberClass.getAnnotations();
         Arrays.stream(annotations).forEach(item -> {
             System.out.println(item);
             System.out.println(item.annotationType().getName()); // 字符串形式获取注解的类型
@@ -30,7 +30,19 @@ class AnnotationTest{
 
                 // 动态代理上场，实现真正的业务逻辑。就算不自己写框架，也助于理解其它框架反射和注解的关系。
             }
-        });
+        });*/
+
+        Class<?> clazz = Class.forName("com.cw.annotation.Member");
+        // 指定类型的注解是否存在于memberClass实例对象类上
+        boolean present = clazz.isAnnotationPresent(MyBehavior.class);
+        System.out.println(present);
+        if(present){
+            // 存在注解时，执行注解表示的功能和逻辑 ...
+            MyBehavior annotation = clazz.getAnnotation(MyBehavior.class);
+            System.out.println(annotation);
+            System.out.println(annotation.value());
+        }
+
 
     }
 }
